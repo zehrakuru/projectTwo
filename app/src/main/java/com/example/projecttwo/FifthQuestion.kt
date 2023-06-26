@@ -1,3 +1,9 @@
+/*
+Yukarıdaki işçiler listesini kullanarak her çalışana %35 zam yapın.
+Listeyi karıştırıp maaş değerine göre küçükten büyüğe sıralayın.
+En yüksek ve en düşük maaş alanları konsola yazdırın.
+Maaş ortalamasını hesaplayıp konsola yazdırın.
+*/
 package com.example.projecttwo
 
 fun main() {

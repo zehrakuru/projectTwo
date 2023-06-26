@@ -1,3 +1,8 @@
+/*
+Tipi CoinResponse olan bir ArrayList var.
+Bu ArrayList’i tipi CoinUI olan bir listeye dönüştürün ve konsola yazdırın.
+*/
+
 package com.example.projecttwo
 
 fun main() {

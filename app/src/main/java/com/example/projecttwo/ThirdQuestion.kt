@@ -1,3 +1,8 @@
+/*
+İlk olarak en büyük ve en küçük yaşa sahip olan öğrencinin ismini ve kaçıncı indexte olduğunu konsola yazdırın.
+Listede school değeri Üniversite A olanları filtreleyin.
+Filtreleme işleminden dönen listeyi yaşları 25’ten büyükler ve küçükler olarak alt alta konsola yazdırın.
+*/
 package com.example.projecttwo
 
 fun main() {

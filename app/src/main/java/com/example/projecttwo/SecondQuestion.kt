@@ -1,3 +1,8 @@
+/*
+İsimler listesini kullanarak önce harflere göre listeyi sıralayın.
+Kullanıcıdan, 1 adet isim isteyin.
+Bu isim names listesinde var mı yok mu kontrol edin.
+Varsa bu ismi listede arayın, tüm harfleri büyük ve ters çevrilmiş şekilde konsola yazdırın.*/
 package com.example.projecttwo
 
 import java.util.*
